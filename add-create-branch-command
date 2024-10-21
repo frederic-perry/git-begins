@@ -1,0 +1,4 @@
+echo "# add create branch command" >> README.md
+git init
+git branch
+git switch
